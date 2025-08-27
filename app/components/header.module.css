@@ -1,0 +1,14 @@
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.header p {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #8964b0;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
